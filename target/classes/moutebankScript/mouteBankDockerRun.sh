@@ -1,0 +1,1 @@
+docker run --name mounte_bank_ctn --rm -p 2525:2525 -p 4545:4545 -p 5555:5555 bbyars/mountebank:2.7.0 mb start
